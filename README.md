@@ -1,9 +1,9 @@
 ## Hi 👋
 
 
-- 🔭 I’m currently working as a **DevOps Engineer** for **Netguru**
-- ⭐️ My favourite job areas: Docker, Linux, Git, Terraform, CI/CD, AWS 
-- 🌱 I want to know more about Kubernetes and building software from a developer perspective
+- 🔭 I’m working as a **DevOps Engineer** for **Netguru**
+- ⭐️ My favourite job areas: Kubernetes, Docker, Linux, Git, Terraform, CI/CD, AWS, Go, Python 
+- 🌱 I want to know more about Google Cloud Platform
 - 🚀 I love to automate!
 
 ---
